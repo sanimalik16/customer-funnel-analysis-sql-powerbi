@@ -141,7 +141,7 @@ The objective of this final project was to simulate a real-world business scenar
 
 # About Me
 
-**Sania Awan**
+**Sania Mubeen**
 
 **Data Analytics Intern | Excel Specialist | Aspiring Data Analyst**
 
