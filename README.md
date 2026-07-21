@@ -97,9 +97,9 @@ The Power BI dashboard provides an interactive view of customer behavior and bus
 
 # Dashboard Preview
 
-> **Customer Funnel Analysis Dashboard**
-
-*(Insert Dashboard Screenshot Here)*
+<p align="center">
+  <img src="Dashboard.png" width="900">
+</p>
 
 ---
 
