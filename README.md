@@ -110,7 +110,7 @@ The Power BI dashboard provides an interactive view of customer behavior and bus
 | **README.md** | Project overview and documentation |
 | **sql_queries.sql** | SQL queries used for data exploration and analysis |
 | **Business_Insights.md** | SQL insights, dashboard insights, and business recommendations |
-| **customer_funnel_analysis_dashboard.pbix** | Interactive Power BI dashboard |
+| **customer_funnel_analytics.pbix** | Interactive Power BI dashboard |
 | **Dashboard.png** | Dashboard screenshot |
 | **client_site_dataset.csv** | Original dataset |
 
